@@ -1,0 +1,25 @@
+#include
+
+#include <stdio.h>
+
+int main() 
+{
+int n, sum=0,r, mp, c;
+
+printf("Enter limit: "); 
+scanf("%d",&n); 
+for(i=1;i<n;i++)
+
+{
+
+printf("%d\t", a);
+
+c=a+b;
+
+a=b;
+
+b=c;
+}
+return 0;
+
+}
